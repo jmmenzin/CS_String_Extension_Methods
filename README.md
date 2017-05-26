@@ -13,5 +13,5 @@ C# class file that contains an extension method for the String class that remove
 # StringFunctions\SplitIncludeSeparator.cs:
 C# class file that contains an extension method for the String class that splits the string into an array based on a provided character array of separators. The separators are also included as members of the array.
 
-# StringFunctions\TestProgram.cs
-C# class file that contains a Main method that tests the output of the methods above.
+# StringFunctions\TestProgram.cs:
+<b>C# class file that contains a Main method that tests the output of the methods above.
